@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "Sony",
+			"device": "Xperia1 III",
+			"filename": "RisingOS-6.0-STABLE-24120822-GAPPS-UNOFFICIAL-pdx215-ota.zip",
+			"download": "",
+			"timestamp": 1733713863,
+			"md5": "02cf1eb5f765dceec059234efec86ee3",
+			"sha256": "aeea3d060344c9ce10793351b90911697d05ab6a09d1cd463067f1c17d64be4f",
+			"size": 2679923597,
+			"version": "6.0-Ascension",
+			"buildtype": "Unofficial",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/LineageOS/android_device_sony_pdx215",
+			"common-dt": "https://github.com/LineageOS/android_device_sony_sm8350-common",
+			"kernel": "https://github.com/LineageOS/android_kernel_sony_sm8350"
+		}
+	]
+}
