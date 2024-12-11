@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "",
+			"maintainer": "Error404",
 			"oem": "Sony",
 			"device": "Xperia1 III",
-			"filename": "RisingOS-6.0-STABLE-24120822-GAPPS-UNOFFICIAL-pdx215-ota.zip",
-			"download": "",
-			"timestamp": 1733713863,
-			"md5": "02cf1eb5f765dceec059234efec86ee3",
-			"sha256": "aeea3d060344c9ce10793351b90911697d05ab6a09d1cd463067f1c17d64be4f",
-			"size": 2679923597,
+			"filename": "RisingOS-6.0-STABLE-24121023-GAPPS-UNOFFICIAL-pdx215-ota.zip",
+			"download": "https://grizzly-opaque-poppyseed.glitch.me/pdx215/ota/RisingOS-6.0-STABLE-24121023-GAPPS-UNOFFICIAL-pdx215-ota.zip",
+			"timestamp": 1733889888,
+			"md5": "24a96281fb8086a004468a85cb3de354",
+			"sha256": "93aef561f64b162e9100b4ab9c313f24acaad25c7becd6ad33f04b9f2db48dae",
+			"size": 2680047078,
 			"version": "6.0-Ascension",
 			"buildtype": "Unofficial",
 			"forum": "",
