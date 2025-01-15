@@ -4,25 +4,18 @@
 			"maintainer": "Error404",
 			"oem": "Sony",
 			"device": "Xperia1 III",
-			"filename": "RisingOS-6.2-STABLE-25010907-GAPPS-COMMUNITY-pdx215-ota.zip",
-			"download": "https://grizzly-opaque-poppyseed.glitch.me/pdx215/ota/RisingOS-6.2-STABLE-25010907-GAPPS-COMMUNITY-pdx215-ota.zip",
-			"timestamp": 1736425576,
-			"md5": "1a15e0a6ab42aedf48cc3ff49c84e899",
-			"sha256": "6ca701f5e82202df2790ed195f671ee950dd0211a06b80b1ef943ac1d0b9a352",
-			"size": 2535917067,
+			"filename": "RisingOS-6.2-STABLE-25011407-GAPPS-COMMUNITY-pdx215-ota.zip",
+			"download": "https://grizzly-opaque-poppyseed.glitch.me/pdx215/ota/RisingOS-6.2-STABLE-25011407-GAPPS-COMMUNITY-pdx215-ota.zip",
+			"timestamp": 1736856432,
+			"md5": "54ac2090475f01c6be7586cc8f050dae",
+			"sha256": "1a18756bc1bbdf2168cb7a96e98c3063893470af0e76bae0510e967329661afb",
+			"size": 2531280004,
 			"version": "6.2-Boundless",
-			"buildtype": "Unofficial",
+			"buildtype": "STABLE",
 			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",			
-			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",			
-			"dt": "https://github.com/LineageOS/android_device_sony_pdx215",
-			"common-dt": "https://github.com/LineageOS/android_device_sony_sm8350-common",
-			"kernel": "https://github.com/LineageOS/android_kernel_sony_sm8350"
+			"telegram": ""
 		}
 	]
 }
